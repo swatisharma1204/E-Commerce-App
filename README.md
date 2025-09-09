@@ -31,7 +31,7 @@ cd backend
 npm install
 npm run dev
 ```
-Runs on 👉 http://localhost:5000
+Runs on 👉 http://localhost:5002
 
 ### Frontend
 ```bash
